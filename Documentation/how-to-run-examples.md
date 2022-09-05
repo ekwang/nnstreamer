@@ -7,14 +7,14 @@ title: How to run examples
 # Table of Contents
 * [Preparing nnstreamer for execution](#preparing-nnstreamer-for-execution)
   * [Use PPA](#use-ppa)
-  * [Build examples (Ubuntu 16.04)](#build-examples-ubuntu-1604-and-1804)
+  * [Build examples (Ubuntu 16.04 and 18.04)](#build-examples-ubuntu-1604-and-1804)
 * [Usage Examples](#usage-examples)
-  * [Example : camera live-view image classification. w/ gst-launch, decoded by tensor_decoder](#example-camera-liveview-image-classification-w-gstlaunch-decoded-by-tensor_decoder)
-  * [Example : camera live-view image classification, decoded by user application](#example-camera-liveview-image-classification-decoded-by-user-application)
-  * [Example : camera live-view object detection, decoded by user application with Tensorflow-Lite](#example-camera-liveview-object-detection-decoded-by-user-application-with-tensorflowlite)
-  * [Example : camera live-view object detection, decoded by user application with Tensorflow](#example-camera-liveview-object-detection-decoded-by-user-application-with-tensorflow)
-  * [Example : video mixer with NNStreamer plug-in](#example-video-mixer-with-nnstreamer-plugin)
-  * [Example : tensor sink](#example-tensor-sink)
+  * [Example : camera live-view image classification. w/ gst-launch, decoded by tensor_decoder](#example--camera-live-view-image-classification-w-gst-launch-decoded-by-tensor_decoder)
+  * [Example : camera live-view image classification, decoded by user application](#example--camera-live-view-image-classification-decoded-by-user-application)
+  * [Example : camera live-view object detection, decoded by user application with Tensorflow-Lite](#example--camera-live-view-object-detection-decoded-by-user-application-with-tensorflow-lite)
+  * [Example : camera live-view object detection, decoded by user application with Tensorflow](#example--camera-live-view-object-detection-decoded-by-user-application-with-tensorflow)
+  * [Example : video mixer with NNStreamer plug-in](#example--video-mixer-with-nnstreamer-plug-in)
+  * [Example : tensor sink](#example--tensor-sink)
 
 
 # Preparing nnstreamer for execution.
